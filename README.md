@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 
-<h1 align="center">Hi 👋, I'm Suraj Kumar</h1>
+<h1 align="center"> I'm Suraj Kumar</h1>
 
 <h3 align="center">
 Software Engineer • AI/ML Enthusiast • Full Stack Developer
