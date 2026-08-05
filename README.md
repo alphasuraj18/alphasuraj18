@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:0F172A&height=200&section=header&text=Suraj%20Kumar&fontSize=50&fontColor=E0F7FA&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:0E7490,70:0891B2,100:0F172A&height=210&section=header&text=Suraj%20Kumar&fontSize=52&fontColor=E0F7FA&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+practical%2C+scalable+software;Python+%7C+Java+%7C+JavaScript+%7C+React;Turning+data+into+decisions+with+ML;Open+to+Software+Engineering+roles" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=alphasuraj18&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge" alt="profile views" height="28"/>
-<img src="https://img.shields.io/github/followers/alphasuraj18?label=Followers&style=for-the-badge&color=0891B2&labelColor=0F172A" alt="followers" height="28"/>
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-22D3EE?style=for-the-badge&labelColor=0F172A" alt="open to work" height="28"/>
+<img src="https://komarev.com/ghpvc/?username=alphasuraj18&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge&labelColor=0F172A" alt="profile views" height="30"/>
+<img src="https://img.shields.io/github/followers/alphasuraj18?label=FOLLOWERS&style=for-the-badge&color=6366F1&labelColor=0F172A" alt="followers" height="30"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge&labelColor=0F172A" alt="open to work" height="30"/>
 
 <br/><br/>
 
@@ -21,16 +21,13 @@
 
 </div>
 
+<br/>
+
 ## 🧠 About Me
 
-```python
-suraj = {
-    "role": "Software Engineer (B.Tech CSE - AI/ML)",
-    "stack": ["Python", "Java", "JavaScript", "React.js", "SQL"],
-    "focus": ["Machine Learning", "Full-Stack Web Apps", "NLP"],
-    "fun_fact": "I'd rather debug a model at 2 AM than leave a bug unsolved."
-}
-```
+<table>
+<tr>
+<td valign="top" width="62%">
 
 - 🎓 B.Tech in Computer Science (AI/ML) @ Galgotias University — graduating 2026
 - 🧪 Hands-on with **regression, classification & NLP pipelines**, end-to-end from preprocessing to deployment
@@ -38,6 +35,27 @@ suraj = {
 - 🤖 Trained as an **AI/ML Trainee**, applying real preprocessing → training → evaluation → visualization workflows
 - 📢 Former **Campus Ambassador**, bridging students, workshops, and university initiatives
 - 🎯 Actively looking for **Software Engineer / Full-Stack / AI-ML Engineer** roles (new grad, 2026)
+
+</td>
+<td valign="top" width="38%">
+
+<div align="center">
+
+**Snapshot**
+
+![Role](https://img.shields.io/badge/Role-Software%20Engineer-0F172A?style=flat-square&labelColor=0891B2)
+<br/>
+![Education](https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-0F172A?style=flat-square&labelColor=0891B2)
+<br/>
+![Focus](https://img.shields.io/badge/Focus-ML%20·%20Full--Stack%20·%20NLP-0F172A?style=flat-square&labelColor=6366F1)
+<br/>
+![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Debugs%20models%20at%202AM-0F172A?style=flat-square&labelColor=22C55E)
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
@@ -140,7 +158,7 @@ Responsive quiz app built with React that pulls live trivia from the Open Trivia
 
 ### 💭 "First, solve the problem. Then, write the code." — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:0F172A&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:0E7490,70:0891B2,100:0F172A&height=120&section=footer" width="100%"/>
 
 <sub>Thanks for stopping by — always happy to talk about code, ML, or the next project. 🚀</sub>
 
