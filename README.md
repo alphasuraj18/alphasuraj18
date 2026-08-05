@@ -37,19 +37,6 @@
 - 🎯 Actively looking for **Software Engineer / Full-Stack / AI-ML Engineer** roles (new grad, 2026)
 
 </td>
-<td valign="top" width="38%">
-
-<div align="center">
-
-**Snapshot**
-
-![Role](https://img.shields.io/badge/Role-Software%20Engineer-0F172A?style=flat-square&labelColor=0891B2)
-<br/>
-![Education](https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-0F172A?style=flat-square&labelColor=0891B2)
-<br/>
-![Focus](https://img.shields.io/badge/Focus-ML%20·%20Full--Stack%20·%20NLP-0F172A?style=flat-square&labelColor=6366F1)
-<br/>
-![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Debugs%20models%20at%202AM-0F172A?style=flat-square&labelColor=22C55E)
 
 </div>
 
