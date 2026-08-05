@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/dynamic/json?color=0891B2&label=Profile%20Views&style=for-the-badge&query=%24.count&url=https://api.countapi.xyz/hit/alphasuraj18/readme" alt="profile views" height="28"/>
+<img src="https://komarev.com/ghpvc/?username=alphasuraj18&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge" alt="profile views" height="28"/>
 <img src="https://img.shields.io/github/followers/alphasuraj18?label=Followers&style=for-the-badge&color=0891B2&labelColor=0F172A" alt="followers" height="28"/>
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-22D3EE?style=for-the-badge&labelColor=0F172A" alt="open to work" height="28"/>
 
