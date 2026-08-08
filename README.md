@@ -84,7 +84,6 @@ Comparative study of **7 ML/DL models** for stock price forecasting on historica
 - Full pipeline: preprocessing → feature scaling → training → evaluation
 - Benchmarked with MAE, RMSE, R² Score & Direction Accuracy
 
-<sub>⚠ repo link pending — see note below</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -97,7 +96,6 @@ Responsive quiz app built with React that pulls live trivia from the Open Trivia
 - Dynamic question loading with real-time score calculation
 - Clean UI with score summaries and instant restart
 
-<sub>⚠ repo link pending — see note below</sub>
 
 </td>
 </tr>
@@ -107,7 +105,7 @@ Responsive quiz app built with React that pulls live trivia from the Open Trivia
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Surajkumar18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Surajkumar18/)
 &nbsp;
-[![LeetCode Stats](https://leetcode-stats-two-omega.vercel.app/api?username=Surajkumar18&theme=Dark&background=0F172A&border=0891B2&text_color=E0F7FA&card_width=340)](https://leetcode.com/u/Surajkumar18/)
+
 
 ## 🏆 Achievements & Certifications
 
