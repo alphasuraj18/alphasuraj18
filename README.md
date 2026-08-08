@@ -35,7 +35,6 @@
 - 🤖 Trained as an **AI/ML Trainee**, applying real preprocessing → training → evaluation → visualization workflows
 - 📢 Former **Campus Ambassador**, bridging students, workshops, and university initiatives
 - 🎯 Actively looking for **Software Engineer / Full-Stack / AI-ML Engineer** roles (new grad, 2026)
-- 
 </tr>
 </table>
 
