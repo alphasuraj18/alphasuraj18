@@ -20,13 +20,11 @@
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td valign="top" width="62%">
+<br/>
 
 - 💻 **Software Engineer** with a full-stack and AI/ML skill set — I build things end-to-end, from backend logic to trained models to shipped UI
 - 🌐 Full stack range — **React/Tailwind** frontend, **Python/Java** backend, **MySQL/MongoDB** data layer
@@ -35,40 +33,27 @@
 - 🤖 Trained as an **AI/ML Trainee**, applying real preprocessing → training → evaluation → visualization workflows
 - 🎯 Actively looking for **Software Engineer / Full-Stack / AI-ML Engineer** roles
 
-</td>
-<td valign="top" width="38%">
-
-<div align="center">
-
-**Snapshot**
-
-![Role](https://img.shields.io/badge/Role-Software%20Engineer-0F172A?style=flat-square&labelColor=0891B2)
 <br/>
-![Education](https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-0F172A?style=flat-square&labelColor=0891B2)
-<br/>
-![Focus](https://img.shields.io/badge/Focus-Full--Stack%20·%20ML%20·%20NLP-0F172A?style=flat-square&labelColor=6366F1)
-<br/>
-![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Debugs%20models%20at%202AM-0F172A?style=flat-square&labelColor=22C55E)
-
-</div>
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech Stack
 
 **Languages**
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" title="Python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="28" title="Java"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" title="JavaScript"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" title="HTML5"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="28" title="C"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" title="Python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="28" title="Java"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" title="JavaScript"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" title="HTML5"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" title="CSS3"/>
+
+<br/>
 
 **Frameworks & ML**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" title="React"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" title="Tailwind CSS"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="28" title="TensorFlow"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="28" title="PyTorch"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="28" title="Keras"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="28" title="Scikit-learn"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="28" title="Streamlit"/>
 
+<br/>
+
 **Database & Tools**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="28" title="MySQL"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mongodb/47A248" height="28" title="MongoDB"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" title="Git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28" title="GitHub"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28" title="Docker"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" title="VS Code"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="28" title="Linux"/>
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -77,23 +62,27 @@
 <td width="50%" valign="top">
 
 ### 🩺 [FitHub AI — Personalized Fitness Coach](https://github.com/alphasuraj18/FitHub-AI-Personalized-Fitness-Coach)
-NLP recommendation engine that reads fitness goals in plain language and returns a tailored workout plan.
+NLP-based recommender that maps free-text fitness goals to workout plans via similarity scoring.
 
 **Stack:** `Python` `Streamlit` `Scikit-learn` `TF-IDF` `NLP`
 
-- TF-IDF vectorization + cosine similarity to match goals to workouts
-- Modular recommendation engine, not a hardcoded rule set
+- Implemented TF-IDF vectorization + cosine similarity for goal-to-workout matching
+- Built as a modular recommendation engine rather than hardcoded rules
+
+<br/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📇 [LLM-Powered Flashcard Generator](https://github.com/alphasuraj18/llm-flashcard-generator)
-Turns PDFs and raw text into structured Q&A flashcards using the OpenAI GPT API — cuts manual note-making out of studying.
+Converts PDFs/raw text into structured Q&A flashcards via the OpenAI API, automating manual note creation.
 
 **Stack:** `Python` `Streamlit` `OpenAI API` `PyPDF2`
 
-- Automated PDF text extraction → flashcard generation pipeline
-- Topic-wise organization with CSV export
+- Built a PDF text-extraction → flashcard-generation pipeline
+- Added topic-wise organization with CSV export
+
+<br/>
 
 </td>
 </tr>
@@ -101,33 +90,59 @@ Turns PDFs and raw text into structured Q&A flashcards using the OpenAI GPT API 
 <td width="50%" valign="top">
 
 ### 📈 Stock Price Predictor
-Comparative study of **7 ML/DL models** for stock price forecasting on historical market data.
+Comparative benchmarking of 7 ML/DL models for stock price forecasting on historical market data.
 
 **Stack:** `Python` `TensorFlow` `Keras` `Scikit-learn` `Pandas` `Plotly`
 
-- Full pipeline: preprocessing → feature scaling → training → evaluation
-- Benchmarked with MAE, RMSE, R² Score & Direction Accuracy
+- Built a full pipeline: preprocessing → feature scaling → training → evaluation
+- Benchmarked models using MAE, RMSE, R² Score & Direction Accuracy
+
+<br/>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 Quiz.io
-Responsive quiz app built with React that pulls live trivia from the Open Trivia DB API.
+Responsive quiz app pulling live trivia data from the Open Trivia DB API.
 
 **Stack:** `React.js` `JavaScript` `React Router` `Tailwind CSS`
 
-- Dynamic question loading with real-time score calculation
-- Clean UI with score summaries and instant restart
+- Implemented dynamic question loading with real-time score calculation
+- Built score-summary UI with instant restart flow
+
+<br/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💧 [Water Quality Test — Potability Prediction](https://github.com/alphasuraj18/Water-Quality-Test)
+Binary classification model predicting water potability from physicochemical parameters (pH, hardness, solids, chloramines, sulfate, etc.).
+
+**Stack:** `Python` `Pandas` `Scikit-learn` `XGBoost`
+
+- Benchmarked Logistic Regression, Random Forest, XGBoost & SVM on the potability dataset
+- Best model (XGBoost) reached 85% accuracy / 0.89 ROC-AUC after feature scaling & EDA-driven cleanup
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [File Reader](https://github.com/alphasuraj18/file-reader-master)
+React-based file reader that renders uploaded file contents with syntax highlighting, packaged as an installable PWA.
+
+**Stack:** `React` `Tailwind CSS` `react-code-blocks`
+
+- Rendered file contents with syntax-highlighted code blocks via react-code-blocks
+- Configured service-worker registration and push-notification support for PWA install
+
+<br/>
 
 </td>
 </tr>
 </table>
-
-## 🧩 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Surajkumar18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Surajkumar18/)
-&nbsp;
-[![LeetCode Stats](https://leetcode-stats-two-omega.vercel.app/api?username=Surajkumar18&theme=Dark&background=0F172A&border=0891B2&text_color=E0F7FA&card_width=340)](https://leetcode.com/u/Surajkumar18/)
 
 ## 🏆 Achievements & Certifications
 
@@ -154,6 +169,8 @@ Responsive quiz app built with React that pulls live trivia from the Open Trivia
 - **Campus Ambassador**, Galgotias University (Jun 2025 – Sep 2025) — led student-university engagement, workshops, and outreach
 
 </details>
+
+<br/>
 
 <div align="center">
 
