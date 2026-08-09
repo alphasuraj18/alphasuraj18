@@ -11,10 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphasuraj18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Surajkumar18/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifeelsuraj@gmail.com)
-
-</div>
-
-<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=alphasuraj18&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge&labelColor=0F172A" alt="profile views" height="30"/>
@@ -23,7 +19,9 @@
 
 <br/>
 <br/>
-<br/>
+
+</div>
+
 
 ## 🧠 About Me
 
