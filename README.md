@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+practical%2C+scalable+software;Python+%7C+Java+%7C+JavaScript+%7C+React;Turning+data+into+decisions+with+ML;Open+to+Software+Engineering+roles" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=alphasuraj18&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge&labelColor=0F172A" alt="profile views" height="30"/>
-<img src="https://img.shields.io/github/followers/alphasuraj18?label=FOLLOWERS&style=for-the-badge&color=6366F1&labelColor=0F172A" alt="followers" height="30"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge&labelColor=0F172A" alt="open to work" height="30"/>
-
-<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-106869249/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphasuraj18)
@@ -20,6 +13,13 @@
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifeelsuraj@gmail.com)
 
 </div>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=alphasuraj18&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge&labelColor=0F172A" alt="profile views" height="30"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge&labelColor=0F172A" alt="open to work" height="30"/>
+
+<br/><br/>
 
 <br/>
 
