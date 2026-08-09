@@ -6,22 +6,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+practical%2C+scalable+software;Python+%7C+Java+%7C+JavaScript+%7C+React;Turning+data+into+decisions+with+ML;Open+to+Software+Engineering+roles" alt="Typing SVG" />
 </a>
 
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-106869249/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alphasuraj18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Surajkumar18/)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifeelsuraj@gmail.com)
+
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=alphasuraj18&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge&labelColor=0F172A" alt="profile views" height="30"/>
-
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge&labelColor=0F172A" alt="open to work" height="30"/>
-
-<br/>
-<br/>
 
 </div>
 
+<br/>
 
 ## 🧠 About Me
 
@@ -29,22 +28,47 @@
 <tr>
 <td valign="top" width="62%">
 
-- 🎓 B.Tech in Computer Science (AI/ML) @ Galgotias University — graduating 2026
-- 🧪 Hands-on with **regression, classification & NLP pipelines**, end-to-end from preprocessing to deployment
+- 💻 **Software Engineer** with a full-stack and AI/ML skill set — I build things end-to-end, from backend logic to trained models to shipped UI
 - 🌐 Full stack range — **React/Tailwind** frontend, **Python/Java** backend, **MySQL/MongoDB** data layer
+- 🧪 Hands-on with **regression, classification & NLP pipelines**, end-to-end from preprocessing to deployment
+- 🎓 B.Tech in Computer Science (AI/ML) @ Galgotias University — Class of 2026
 - 🤖 Trained as an **AI/ML Trainee**, applying real preprocessing → training → evaluation → visualization workflows
-- 📢 Former **Campus Ambassador**, bridging students, workshops, and university initiatives
-- 🎯 Actively looking for **Software Engineer / Full-Stack / AI-ML Engineer** roles (new grad, 2026)
+- 🎯 Actively looking for **Software Engineer / Full-Stack / AI-ML Engineer** roles
+
+</td>
+<td valign="top" width="38%">
+
+<div align="center">
+
+**Snapshot**
+
+![Role](https://img.shields.io/badge/Role-Software%20Engineer-0F172A?style=flat-square&labelColor=0891B2)
+<br/>
+![Education](https://img.shields.io/badge/B.Tech-CSE%20(AI%2FML)-0F172A?style=flat-square&labelColor=0891B2)
+<br/>
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20·%20ML%20·%20NLP-0F172A?style=flat-square&labelColor=6366F1)
+<br/>
+![Fun Fact](https://img.shields.io/badge/Fun%20Fact-Debugs%20models%20at%202AM-0F172A?style=flat-square&labelColor=22C55E)
+
+</div>
+
+</td>
 </tr>
 </table>
 
 ## 🛠️ Tech Stack
 
-**Languages:** &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="28" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="28" title="SQL"/>
+**Languages**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="28" title="Python"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="28" title="Java"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="28" title="JavaScript"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="28" title="HTML5"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="28" title="CSS3"/>
 
-**Frameworks & ML:** &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" title="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="28" title="TensorFlow"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="28" title="PyTorch"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="28" title="Keras"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="28" title="Scikit-learn"/> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="28" title="Streamlit"/>
+**Frameworks & ML**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="28" title="React"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="28" title="Tailwind CSS"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="28" title="TensorFlow"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="28" title="PyTorch"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="28" title="Keras"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="28" title="Scikit-learn"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="28" title="Streamlit"/>
 
-**Database & Tools:** &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="28" title="MySQL"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" height="28" title="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="28" title="Linux"/>
+**Database & Tools**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="28" title="MySQL"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mongodb/47A248" height="28" title="MongoDB"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="28" title="Git"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28" title="GitHub"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="28" title="Docker"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" title="VS Code"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="28" title="Linux"/>
 
 ## 🚀 Featured Projects
 
@@ -84,7 +108,6 @@ Comparative study of **7 ML/DL models** for stock price forecasting on historica
 - Full pipeline: preprocessing → feature scaling → training → evaluation
 - Benchmarked with MAE, RMSE, R² Score & Direction Accuracy
 
-
 </td>
 <td width="50%" valign="top">
 
@@ -96,7 +119,6 @@ Responsive quiz app built with React that pulls live trivia from the Open Trivia
 - Dynamic question loading with real-time score calculation
 - Clean UI with score summaries and instant restart
 
-
 </td>
 </tr>
 </table>
@@ -105,7 +127,7 @@ Responsive quiz app built with React that pulls live trivia from the Open Trivia
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Surajkumar18-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Surajkumar18/)
 &nbsp;
-
+[![LeetCode Stats](https://leetcode-stats-two-omega.vercel.app/api?username=Surajkumar18&theme=Dark&background=0F172A&border=0891B2&text_color=E0F7FA&card_width=340)](https://leetcode.com/u/Surajkumar18/)
 
 ## 🏆 Achievements & Certifications
 
