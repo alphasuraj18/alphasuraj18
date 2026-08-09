@@ -14,13 +14,15 @@
 
 </div>
 
-<br/><br/>
+<br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=alphasuraj18&label=PROFILE+VIEWS&color=0E7490&style=for-the-badge&labelColor=0F172A" alt="profile views" height="30"/>
+
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-22C55E?style=for-the-badge&labelColor=0F172A" alt="open to work" height="30"/>
 
-<br/><br/>
-
+<br/>
+<br/>
 <br/>
 
 ## 🧠 About Me
